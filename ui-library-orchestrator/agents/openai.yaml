@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI 组件库编排器"
+  short_description: "按页面场景选择并集成最合适的 UI 组件"
+  default_prompt: "使用 $ui-library-orchestrator 为这个页面选择、集成并验证最合适的 UI 组件。"
